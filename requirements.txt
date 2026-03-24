@@ -1,0 +1,8 @@
+# Requiere Python 3.10+
+playwright
+python-dotenv
+ollama
+groq
+google-genai
+ddgs
+pypdf
