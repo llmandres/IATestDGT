@@ -1,4 +1,4 @@
-# Bot de Autoescuela - TodoTest
+# Bot de Autoescuela 
 
 Bot que automatiza tests de autoescuela en TodoTest.
 
